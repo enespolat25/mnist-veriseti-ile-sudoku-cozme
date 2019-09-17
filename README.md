@@ -1,2 +1,1 @@
-# SudokuSolver
-Solving sudoku puzzles using logic and python data structures
+# MNIST Modelinden faydalanarak Sudoku çözme
